@@ -1,0 +1,21 @@
+{
+  "name": "Angular101",
+  "homepage": "https://github.com/championswimmer/Angular101",
+  "authors": [
+    "Arnav Gupta <championswimmer@gmail.com>"
+  ],
+  "description": "Introduction to Angular",
+  "main": "index.html",
+  "moduleType": [],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
